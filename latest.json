@@ -1,0 +1,11 @@
+{
+  "version": "0.1.41",
+  "notes": "Atualização do Ventuno Gramas Desktop 0.1.41.",
+  "pub_date": "2026-07-22T05:56:58.9157750Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaG5TaGgzcXE4YUQ4QThhNllXQ3pPRGFkVEZlTDcyVTVkYnRhK1Y3Z1dMRm92dDVUMlNHZHpKcHlmVFhPOFE2OHU3ZVk5a2kvTlY2UjhxekY3UEphMEloU2pwWFJyVmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Njk5ODE1CWZpbGU6dmVudHVuby1ncmFtYXMtZGVza3RvcF8wLjEuNDFfeDY0LXNldHVwLmV4ZQpRbmRUVjhweDI1bUM2b08wOHM0dTE3OVNkOTlUTlJLMFlKSEpuNDk2bW56a3hsSHp1UHRVbm5tUWlhWlhuKy9QckV6K01aaG9lOTU1NmFsbHB6TENEUT09Cg==",
+      "url": "https://updates.ventunogramas.com/releases/v0.1.41/ventuno-gramas-desktop_0.1.41_x64-setup.exe"
+    }
+  }
+}
